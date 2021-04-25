@@ -3,7 +3,7 @@
 
 ## I'm a student who is studying computer science at Tampere vocational college!
 
-- Fun fact: I love to play video games and play guitar
+- Fun fact: I love to play video games and guitar
 
 <summary>GitHub Stats</summary>
 

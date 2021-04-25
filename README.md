@@ -5,9 +5,6 @@
 
 - ⚡ Fun fact: I love to play video games and play guitar
 
-### Spotify Playing 🎧
-
-<iframe src="https://open.spotify.com/embed/playlist/2c8fzWPc6RBFMxiAFJrYXD" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <br />
 
@@ -32,9 +29,10 @@
 
 <br />
 <br />
----
----
 <summary>GitHub Stats</summary>
 
 <img align="left" alt="vaksis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vaksis&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaksis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 

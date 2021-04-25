@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<iframe src="https://open.spotify.com/embed/playlist/2c8fzWPc6RBFMxiAFJrYXD" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>]
+<iframe src="https://open.spotify.com/embed/playlist/2c8fzWPc6RBFMxiAFJrYXD" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <br />
 

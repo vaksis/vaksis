@@ -1,9 +1,8 @@
-### こんにちは、私は vaksis👋
+### Hi、I'm vaksis👋
 
 
-## 私はタンペレ専門学校でコンピューターサイエンスを勉強している学生です
-
-- おもしろい事実：私はビデオゲームとギターをするのが大好きです
+## I'm a studend who is studying computer science at TREDU vocational college
+- Fun fact：I love playing video games and guitar
 
 <summary>GitHub Stats</summary>
 

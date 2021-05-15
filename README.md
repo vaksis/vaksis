@@ -1,4 +1,4 @@
-### Hi、I'm vaksis👋
+### Hi, I'm vaksis👋
 
 
 ## I'm a studend who is studying computer science at TREDU vocational college

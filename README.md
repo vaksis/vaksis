@@ -2,8 +2,8 @@
 
 
 ## I'm a finnish girl who is studying computer science at TREDU vocational college
-- Fun fact：I love playing video games and guitar
-- I know PHP, Javascript, and a little bit of Java & C#
+- I know PHP, Javascript, and a little bit of Java & C#.
+- I play a lot of videogames.
 
 <summary>GitHub Stats</summary>
 

@@ -16,7 +16,7 @@ https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoCol
 
 https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 
-https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 
 https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 

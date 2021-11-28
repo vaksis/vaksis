@@ -1,4 +1,4 @@
-### Hi, I'm [vaksis](https://vaksis.github.io) (18 y.o)!
+### Hi, I'm vaksis (18 y.o)!
 
 
 ## I'm a finnish girl who is studying computer science at TREDU vocational college

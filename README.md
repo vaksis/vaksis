@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaksis&langs_count=8&layout=compact&hide_border=1&theme=dark&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Frameworks & languages that I know
+## Stuff that I know
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)

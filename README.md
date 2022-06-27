@@ -1,7 +1,7 @@
 ### Hi, I'm Olivia (18 y.o)!
 
 
-## I'm a finnish girl who is studying computer science at TREDU vocational college
+## I'm just a casual finnish girl 
 - **Pronouns:** she/her
 - **What I know?:** I know PHP, Javascript, and a little bit of JAVA & C#.
 - **What are my hobbies?:** I play video game in the competitive level.

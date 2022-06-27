@@ -1,4 +1,4 @@
-### Hi, I'm Olivia (18 y.o)!
+### Hi, I'm Olivia!
 
 
 ## I'm just a casual finnish girl 

@@ -2,7 +2,7 @@
 
 
 ## I'm just a casual finnish girl 
-- **Pronouns:** she/her
+- **Pronouns:** she/her :transgender_flag:
 - **What I know?:** I know PHP, Javascript, and a little bit of JAVA & C#.
 - **What are my hobbies?:** I play video game in the competitive level.
 

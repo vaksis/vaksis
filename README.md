@@ -1,4 +1,4 @@
-### Hi, I'm Olivia!
+### Hi, I'm Veeti (Olivia) Koskinen!
 
 
 ## I'm just a casual finnish girl 

@@ -1,3 +1,8 @@
+![Header](./[github-header-image.png])
+
+
+
+
 ### Hi, I'm Veeti (Olivia) Koskinen!
 
 

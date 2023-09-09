@@ -1,11 +1,6 @@
 <div align="center"> <img src="https://github.com/vaksis/vaksis/blob/master/github-header-image.png"> </div>
 
 
-
-
-### Hi, I'm Veeti (Olivia) Koskinen!
-
-
 ## I'm just a casual finnish girl 
 - **Pronouns:** she/her :transgender_flag:
 - **What I know?:** I know PHP, Javascript, and a little bit of JAVA & C#, MySQL, phpMyAdmin.

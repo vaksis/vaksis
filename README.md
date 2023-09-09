@@ -1,7 +1,3 @@
-![Header](./[Your header image])
-
-
-
 ### Hi, I'm Veeti (Olivia) Koskinen!
 
 

@@ -1,4 +1,4 @@
-![Header](./vaksis/[github-header-image.png])
+<div align="center"> <img src="https://github.com/vaksis/vaksis/blob/master/github-header-image.png"> </div>
 
 
 

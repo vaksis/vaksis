@@ -1,4 +1,6 @@
-<div align="center"> <img src="https://github.com/vaksis/vaksis/blob/master/github-header-image.png"> </div>
+<!--<div align="center"> <img src="https://github.com/vaksis/vaksis/blob/master/github-header-image.png"> </div>-->
+#Hi I'm Olivia Koskinen 
+### software developer
 
 
 ## I'm just a casual finnish girl 

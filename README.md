@@ -6,7 +6,7 @@
 ## I'm just a casual finnish girl 
 - **Pronouns:** she/her :transgender_flag:
 - **What I know?:** I know PHP, Javascript, and a little bit of JAVA & C#, MySQL, phpMyAdmin.
-- **Education?:** I graduated from TREDU vocational school as a software developer.
+- **Education?:** I graduated from TREDU vocational school as a IT Technican and software developer.
 - **What are my hobbies?:** I play video game in the competitive level.
 
 <summary>GitHub Stats</summary>
